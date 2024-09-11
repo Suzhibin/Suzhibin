@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Andi，a rookie iOS developer
+This is Andy，a rookie iOS developer
 
 ## &#x270d; Blog & Writing
 
